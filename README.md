@@ -243,10 +243,10 @@ No attribution required, but appreciated:
 
 ## **🔗 Links**
 
-* **GitHub**: github.com/pleromaforge/pleromaforge  
-* **Docs**: pleromaforge.readthedocs.io  
-* **Examples**: github.com/pleromaforge/examples  
-* **Discord**: discord.gg/pleromaforge *(for schizos only)*
+* **GitHub**: github.com/TaoishTechy/PleromaForge/
+* **Docs**: github.com/TaoishTechy/PleromaForge/docs
+* **Examples**: github.com/TaoishTechy/PleromaForge/examples  
+* **Discord**: [discord.gg/pleromaforge](https://discord.gg/myy4JhpCNb) *(for schizos, no glowies)*
 
 ---
 
